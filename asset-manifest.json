@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/solditwebsite/static/css/main.b95ffcc3.css",
+    "main.js": "/solditwebsite/static/js/main.33c00ca0.js",
+    "static/js/787.2e3f264c.chunk.js": "/solditwebsite/static/js/787.2e3f264c.chunk.js",
+    "static/media/img2.jpg": "/solditwebsite/static/media/img2.8941f5a1cf7b744ea098.jpg",
+    "static/media/img1.svg": "/solditwebsite/static/media/img1.56b8b77fa3c17d3f2cc4e40bd3ab9518.svg",
+    "index.html": "/solditwebsite/index.html",
+    "main.b95ffcc3.css.map": "/solditwebsite/static/css/main.b95ffcc3.css.map",
+    "main.33c00ca0.js.map": "/solditwebsite/static/js/main.33c00ca0.js.map",
+    "787.2e3f264c.chunk.js.map": "/solditwebsite/static/js/787.2e3f264c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b95ffcc3.css",
+    "static/js/main.33c00ca0.js"
+  ]
+}
